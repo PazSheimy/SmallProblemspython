@@ -1,2 +1,2 @@
-# SmallProblemspython
+# Small python challenges
 Meal calculator
